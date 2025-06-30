@@ -1,0 +1,47 @@
+2025-06-04 13:06:33,983 - INFO - Starting training session
+2025-06-04 13:06:33,984 - INFO - Using custom CrossEntropyLoss with label smoothing
+2025-06-04 13:07:24,406 - INFO - Starting training session
+2025-06-04 13:07:24,406 - INFO - Using custom CrossEntropyLoss with label smoothing
+2025-06-04 13:28:43,950 - INFO - Epoch 1/10 | Train Loss: 2.4952 | Val Loss: 1.8258 | Train Acc: 0.7473 | Val Acc: 0.8900 | Val BLEU: 0.7884
+2025-06-04 13:28:52,885 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_1
+2025-06-04 13:29:45,327 - INFO - Created zip file: models/codet5/checkpoint_epoch_1.zip
+2025-06-04 13:29:45,327 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_1.zip
+2025-06-04 13:50:58,609 - INFO - Epoch 2/10 | Train Loss: 2.0683 | Val Loss: 1.7546 | Train Acc: 0.8196 | Val Acc: 0.9061 | Val BLEU: 0.8155
+2025-06-04 13:51:03,945 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_2
+2025-06-04 13:51:55,497 - INFO - Created zip file: models/codet5/checkpoint_epoch_2.zip
+2025-06-04 13:51:55,497 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_2.zip
+2025-06-04 14:13:10,144 - INFO - Epoch 3/10 | Train Loss: 1.9735 | Val Loss: 1.7402 | Train Acc: 0.8401 | Val Acc: 0.9088 | Val BLEU: 0.8203
+2025-06-04 14:13:14,864 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_3
+2025-06-04 14:14:07,145 - INFO - Created zip file: models/codet5/checkpoint_epoch_3.zip
+2025-06-04 14:14:07,145 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_3.zip
+2025-06-04 14:35:26,462 - INFO - Epoch 4/10 | Train Loss: 1.9277 | Val Loss: 1.7324 | Train Acc: 0.8508 | Val Acc: 0.9109 | Val BLEU: 0.8242
+2025-06-04 14:35:33,199 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_4
+2025-06-04 14:36:25,658 - INFO - Created zip file: models/codet5/checkpoint_epoch_4.zip
+2025-06-04 14:36:25,658 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_4.zip
+2025-06-04 14:57:51,442 - INFO - Epoch 5/10 | Train Loss: 1.9096 | Val Loss: 1.7322 | Train Acc: 0.8553 | Val Acc: 0.9117 | Val BLEU: 0.8246
+2025-06-04 14:57:58,941 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_5
+2025-06-04 14:58:51,791 - INFO - Created zip file: models/codet5/checkpoint_epoch_5.zip
+2025-06-04 14:58:51,791 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_5.zip
+2025-06-04 15:20:12,289 - INFO - Epoch 6/10 | Train Loss: 1.9044 | Val Loss: 1.7308 | Train Acc: 0.8566 | Val Acc: 0.9120 | Val BLEU: 0.8257
+2025-06-04 15:20:19,279 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_6
+2025-06-04 15:21:11,943 - INFO - Created zip file: models/codet5/checkpoint_epoch_6.zip
+2025-06-04 15:21:11,943 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_6.zip
+2025-06-04 15:42:31,483 - INFO - Epoch 7/10 | Train Loss: 1.9007 | Val Loss: 1.7305 | Train Acc: 0.8577 | Val Acc: 0.9120 | Val BLEU: 0.8259
+2025-06-04 15:42:40,710 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_7
+2025-06-04 15:43:32,641 - INFO - Created zip file: models/codet5/checkpoint_epoch_7.zip
+2025-06-04 15:43:32,641 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_7.zip
+2025-06-04 16:04:54,916 - INFO - Epoch 8/10 | Train Loss: 1.8992 | Val Loss: 1.7290 | Train Acc: 0.8581 | Val Acc: 0.9127 | Val BLEU: 0.8266
+2025-06-04 16:05:01,835 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_8
+2025-06-04 16:05:54,299 - INFO - Created zip file: models/codet5/checkpoint_epoch_8.zip
+2025-06-04 16:05:54,299 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_8.zip
+2025-06-04 16:27:19,077 - INFO - Epoch 9/10 | Train Loss: 1.8943 | Val Loss: 1.7283 | Train Acc: 0.8594 | Val Acc: 0.9128 | Val BLEU: 0.8269
+2025-06-04 16:27:31,074 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_9
+2025-06-04 16:28:25,145 - INFO - Created zip file: models/codet5/checkpoint_epoch_9.zip
+2025-06-04 16:28:25,145 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_9.zip
+2025-06-04 16:49:52,490 - INFO - Epoch 10/10 | Train Loss: 1.8913 | Val Loss: 1.7283 | Train Acc: 0.8602 | Val Acc: 0.9130 | Val BLEU: 0.8273
+2025-06-04 16:49:56,308 - INFO - Checkpoint saved to models/codet5/checkpoint_epoch_10
+2025-06-04 16:50:50,665 - INFO - Created zip file: models/codet5/checkpoint_epoch_10.zip
+2025-06-04 16:50:50,665 - INFO - Download checkpoint: /content/models/codet5/checkpoint_epoch_10.zip
+2025-06-04 16:50:50,732 - INFO - Training metrics saved to models/codet5/codet5_training_scores.csv
+2025-06-04 16:50:50,732 - INFO - Download training metrics CSV: /content/models/codet5/codet5_training_scores.csv
+2025-06-04 16:50:50,733 - INFO - Download training log: /content/models/codet5/training_log.txt
